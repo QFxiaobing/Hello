@@ -51,6 +51,7 @@
 		A9DEDE591C19CF19009DA03A /* HelloUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9DEDE5D1C19CF19009DA03A /* HelloUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloUITests.m; sourceTree = "<group>"; };
 		A9DEDE5F1C19CF19009DA03A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A9DEDE6B1C19D012009DA03A /* UIView坐标系.key */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UIView坐标系.key"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 		A9DEDE2C1C19CF18009DA03A = {
 			isa = PBXGroup;
 			children = (
+				A9DEDE6B1C19D012009DA03A /* UIView坐标系.key */,
 				A9DEDE371C19CF18009DA03A /* Hello */,
 				A9DEDE511C19CF19009DA03A /* HelloTests */,
 				A9DEDE5C1C19CF19009DA03A /* HelloUITests */,
